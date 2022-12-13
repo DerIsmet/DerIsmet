@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DerIsmet
+- 👀 I’m interested in playing video games.
+- 🌱 I’m currently learning C# and HTML
+- 📫 How to reach me: ismet.marek@yahoo.com
